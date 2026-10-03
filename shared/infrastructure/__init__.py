@@ -1,0 +1,1 @@
+# Empty file to make shared/infrastructure a Python package
